@@ -1,0 +1,23 @@
+#include<iostream>
+
+using namespace std;
+
+int main()
+
+{
+
+int first_number, second_number;
+
+cout << "Enter two integers:";
+
+cin>>first_number;
+cout<< "Enter 2 number";
+cin>>second_number;
+
+cout<<"sum is :"<<first_number + second_number;
+
+
+
+return 0;
+
+}
